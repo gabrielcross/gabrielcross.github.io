@@ -1,2 +1,2 @@
 
-www.gabrielcross.github.io
+gabrielcross.github.io
